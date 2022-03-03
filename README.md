@@ -29,4 +29,5 @@ This README would normally document whatever steps are necessary to get your app
 * Other community or team contact
 
 ### Authors
-* Jean Baptiste Prince STanley Lovensky J, JEAN BAPTISTE
+* Jean Baptiste Prince STanley Lovensky J, JEAN BAPTISTE'
+* Peterson Edouard
