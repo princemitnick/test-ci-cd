@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Test ci-cd");
         System.out.println("Test a new build");
         System.out.println("Test a new build");
+        System.out.println("Test a new build");
     }
 }
