@@ -11,7 +11,7 @@ public class Main {
 
         Supplier<String> supplier = () -> "Test CI/CD";
         System.out.println(supplier.get());
-        System.out.println("Test CI/CD -> Lambda Expression");
+        System.out.println("Test CI/CD -> Lambda Expression : No-1");
 
     }
 
