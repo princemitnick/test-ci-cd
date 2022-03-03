@@ -14,6 +14,8 @@ public class Main {
         System.out.println("Test CI/CD -> Lambda Expression : No-1");
         System.out.println("Test CI/CD -> Lambda Expression : No-2");
         System.out.println("Test CI/CD -> Lambda Expression : No-3");
+        System.out.println("Test CI/CD -> Lambda Expression : No-4");
+        System.out.println("Test CI/CD -> Lambda Expression : No-5");
 
     }
 
